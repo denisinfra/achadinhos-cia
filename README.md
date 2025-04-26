@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Achadinhos & Cia 🛍️✨
 
@@ -34,3 +35,6 @@ npm run dev
 - Arquivo `products.json` na pasta `/data`.
 
 Feito com ❤️ por Achadinhos & Cia.
+=======
+# achadinhos-cia
+>>>>>>> d5566cee3ea121c0a453955de84e59b9b625bc5b
